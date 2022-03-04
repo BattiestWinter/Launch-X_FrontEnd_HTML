@@ -30,3 +30,5 @@ Tabla de contenidos:
 |saboresCl.html|paginasCliente|Página que contiene el listado y la descipción de los sabores|
 |adornosCl.html|paginasCliente|Página que contiene el listado y la descipción de los adornos|
 |pedidoCl.html|paginasCliente|Página que contiene el formulario para realizar un pedido|
+|inventarioPa.html|paginasPastelero|Página que contiene el inventario restante, esto incluye sabores y adornos|
+|pedidosPa.html|paginasPastelero|Página que contiene la información de pedidos|
